@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Buzzurro on my new hugo site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/buzzurro/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 09 Sep 2014 17:32:27 CEST</updated>
+    
+    <item>
+      <title>bronze2</title>
+      <link>http://localhost:1313/bronze2/</link>
+      <pubDate>Tue, 09 Sep 2014 17:32:27 CEST</pubDate>
+      
+      <guid>http://localhost:1313/bronze2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 09 Sep 2014 16:57:23 CEST</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Prova Prova&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

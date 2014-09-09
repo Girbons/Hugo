@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on my new hugo site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 09 Sep 2014 17:46:21 CEST</updated>
+    
+    <item>
+      <title>kebab</title>
+      <link>http://localhost:1313/kebab/</link>
+      <pubDate>Tue, 09 Sep 2014 17:46:21 CEST</pubDate>
+      
+      <guid>http://localhost:1313/kebab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Tue, 09 Sep 2014 16:57:55 CEST</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testamento</title>
+      <link>http://localhost:1313/testamento/</link>
+      <pubDate>Tue, 09 Sep 2014 17:12:15 CEST</pubDate>
+      
+      <guid>http://localhost:1313/testamento/</guid>
+      <description>&lt;p&gt;sono il più forte a lol&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bronze2</title>
+      <link>http://localhost:1313/bronze2/</link>
+      <pubDate>Tue, 09 Sep 2014 17:32:27 CEST</pubDate>
+      
+      <guid>http://localhost:1313/bronze2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 09 Sep 2014 16:57:23 CEST</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Prova Prova&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
